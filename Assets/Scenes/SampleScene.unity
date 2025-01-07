@@ -3524,11 +3524,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   focusPoint: {fileID: 2107430534}
-  minDistance: 2
-  maxDistance: 50
-  orbitSpeed: 10000
+  orbitSpeed: 100
   panSpeed: 0.1
   zoomSpeed: 10
+  minDistance: 2
+  maxDistance: 50
 --- !u!1 &1015291043
 GameObject:
   m_ObjectHideFlags: 0
